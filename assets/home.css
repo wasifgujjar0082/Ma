@@ -324,7 +324,7 @@ height: 700px;
 /* ============================================================ */
 /* Background Image with Overlay */
 .section-container {
-    background: url(/assets/images/mockup-654585_1280.jpg) no-repeat center center/cover;  /* Replace with your actual image */
+ background: url(/assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
     background-attachment: fixed;
     height: 550px;
     position: relative;
