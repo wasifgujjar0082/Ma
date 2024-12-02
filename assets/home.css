@@ -132,7 +132,7 @@ p {
 }
 /* ++++++++++++++++++++++++++ */
 .background {
-    background: url(..assets/images/mockup-654585_1280.jpg) no-repeat center center/cover;
+    background: url(../assets/images/mockup-654585_1280.jpg) no-repeat center center/cover;
     position: relative;
     color: #fff;
     padding: 60px 0;
@@ -324,7 +324,7 @@ height: 700px;
 /* ============================================================ */
 /* Background Image with Overlay */
 .section-container {
-    background: url(assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
+    background: url(/assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
     background-attachment: fixed;
     height: 550px;
     position: relative;
@@ -388,7 +388,7 @@ height: 700px;
         margin-top: 10px;
     }
     .section-container {
-        background: url(assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
+        background: url(/assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
         background-attachment: fixed;
         height: 1150px;
         position: relative;
@@ -430,7 +430,7 @@ height: 700px;
         margin-top: 10px;
     }
     .section-container {
-        background: url(assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
+        background: url(/assets/images/mockup-654585_1280.jpg) no-repeat center center/cover; /* Replace with your actual image */
         background-attachment: fixed;
         height: 1150px;
         position: relative;
